@@ -13,12 +13,12 @@ This folder contains the implementation of various AI algorithms as part of the 
 
 ---
 
-<img src="./images/a.png" alt="Chess Board" width="500" height="350"/>
-<img src="./images/b.png" alt="Chess Board" width="500" height="350"/>
-<img src="./images/3.png" alt="Chess Board" width="500" height="350"/>
-<img src="./images/d.png" alt="Chess Board" width="500" height="350"/>
-<img src="./images/e.png" alt="Chess Board" width="500" height="350"/>
-<img src="./images/f.png" alt="Chess Board" width="500" height="350"/>
+<img src="./images/a.png"  width="500" height="350"/>
+<img src="./images/b.png"  width="500" height="350"/>
+<img src="./images/3.png"  width="500" height="350"/>
+<img src="./images/d.png"  width="500" height="350"/>
+<img src="./images/e.png"  width="500" height="350"/>
+<img src="./images/f.png"  width="500" height="350"/>
 
 ## 🔍 Uninformed Search Algorithms
 

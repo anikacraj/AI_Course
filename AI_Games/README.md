@@ -43,7 +43,7 @@ Welcome to the Classic Games Guide! This `README` explains how to play three tim
   - 2 Bishops
   - 2 Knights 🐴
   - 8 Pawns
-<img src="./images/chess.png" alt="Chess Board" width="400"/>
+<img src="./Images/chess.png" alt="Chess Board" width="400"/>
 ### 🔄 How to Play
 
 1. **White moves first**, then players take turns.
@@ -66,7 +66,7 @@ Welcome to the Classic Games Guide! This `README` explains how to play three tim
 **Players:** 2  
 **Symbols:** X and O  
 **Goal:** Get three of your marks in a row (horizontal, vertical, or diagonal).
-<img src="./images/tic.png" alt="Chess Board" width="300"/>
+<img src="./Images/tic.png" alt="Tic Tac Toe Game Board" width="300"/>
 ### 🧩 How to Play
 
 1. The game is played on a 3×3 grid.
@@ -84,7 +84,7 @@ Welcome to the Classic Games Guide! This `README` explains how to play three tim
 **Players:** 2  
 **Goal:** Beat your opponent with the right choice.
 
-<img src="./images/RPS.png" alt="Chess Board" width="300"/>
+<img src="./Images/RPS.png" alt="Rock Paper Scissors AI Board" width="300"/>
 
 ### ✋ Rules
 
