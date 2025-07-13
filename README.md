@@ -7,7 +7,7 @@
 ## 📄 Course Information
 
 - **📚 Course Title:** Artificial Intelligence  
-- **👨‍🏫 Instructor:** Rajorshi Projojal  
+- **👨‍🏫 Instructor:** Razorshi Prozzwal Talukder 
 - **📆 Duration:** January 2025 – June 2025  
 - **🧾 Submitted by:** Anik Chowdhury  
 
